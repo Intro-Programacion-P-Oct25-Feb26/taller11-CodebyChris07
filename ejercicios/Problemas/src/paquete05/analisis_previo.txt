@@ -1,0 +1,2 @@
+En este problema tenemos que generar una solucion que presente la suma de dos 
+arreglos bidimensionales llamados informacion1 y informacion2 

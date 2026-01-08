@@ -6,8 +6,6 @@
 package paquete04;
 
 import java.util.Scanner;
-import static paquete03.Problema3.obtenerAreaCuadrado;
-import static paquete03.Problema3.obtenerAreaTriangulo;
 
 /**
  *
@@ -63,16 +61,15 @@ public class Problema4 {
                 + "$%s", n, c, valorLuz);
 
     }
-
-    public static void calcularPredio(String n, String c) {
+     public static void calcularPredio(String n, String c) {
         double inmueble;
         double predio;
         System.out.println("Ingrese el valor del inmueble");
         inmueble = entrada.nextDouble();
         predio = inmueble * 0.02;
         System.out.printf("Cliente %s con cédula %stiene un bien inmueble "
-                + "valorado en $%s y tiene que pagar de predio $ %s.", n, c,
-                inmueble, predio);
-    }
+                + "valorado en $%s y tiene que pagar de predio $ %s.", n, c, 
+                inmueble, predio );
+     }
 
 }
