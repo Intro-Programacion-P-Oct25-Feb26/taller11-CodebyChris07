@@ -1,0 +1,4 @@
+el codigo va a utilizar el arreglo bidimensional llamado informacion, el cual 
+presenta unos valores enteros, la solucion que se debe diseñar es que muestre en 
+pantalla valores que sean solo pares, para ello utilizaremos un ciclo for y un 
+condicional que nos va a permitir saber que numeros son pares o no
