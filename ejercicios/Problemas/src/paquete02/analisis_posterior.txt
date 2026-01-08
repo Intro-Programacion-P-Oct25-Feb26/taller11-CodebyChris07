@@ -1,6 +1,4 @@
-Necesitamos 3 funciones y 1 procedimiento para este problemaen la primera 
-funciones, solicitaremos los nombres de las viviendas, en el segundo 
-solicitaremos el consumo electrico de cada vivienda y se va a guardar en un 
-arreglo bidimensional, en el tercero haremos la suma total anual de cada 
-vivienda, y en el procedimiento presentaremos un reporte con el consumo anual 
-de cada vivienda
+Se me resulto mas dificil la ultima parte de procedimiento el como presentar el 
+reporte, el error que cometi al inicio es no poner el Scanner, la parte mas 
+importante en el programa son las funciones y el procedimiento, aprendi a como 
+presentar un reporte en un procedimiento.

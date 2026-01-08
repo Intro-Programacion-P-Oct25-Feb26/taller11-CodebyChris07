@@ -1,0 +1,6 @@
+Necesitamos 3 funciones y 1 procedimiento para este problemaen la primera 
+funciones, solicitaremos los nombres de las viviendas, en el segundo 
+solicitaremos el consumo electrico de cada vivienda y se va a guardar en un 
+arreglo bidimensional, en el tercero haremos la suma total anual de cada 
+vivienda, y en el procedimiento presentaremos un reporte con el consumo anual 
+de cada vivienda

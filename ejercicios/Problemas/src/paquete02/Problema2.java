@@ -104,6 +104,5 @@ public class Problema2 {
         for (int a = 0; a < c.length; a++) {
             System.out.printf("El consumo anual de %s es: %s\n", c[a], con[a]);
         }
-
     }
 }

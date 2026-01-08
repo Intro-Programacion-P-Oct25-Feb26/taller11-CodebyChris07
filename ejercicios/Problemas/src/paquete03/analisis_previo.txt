@@ -1,0 +1,5 @@
+El problema necesita 3 procedimientos en cual cual el usuario elige si 
+quiere calcular el area del cuadrado, o del rectangulo o del triangulo, 
+eligiendo una opcion que se le pondra en pantallay en cada uno de estos 
+procedimientos se calculara el area, en cada procedimiento vamos solicitar datos 
+necesarios para calcular las areas.
