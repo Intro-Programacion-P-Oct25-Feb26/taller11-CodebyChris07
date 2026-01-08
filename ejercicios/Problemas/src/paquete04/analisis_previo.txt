@@ -1,0 +1,6 @@
+En este problema el usuario debe elegir una opcion si quiere ver el valor de la 
+planilla de luz o calcular el valor del predio de un inmueble, para el valor de 
+la planilla usaremos una funcion y para el del inmueble un procedimiento, en la 
+funcion pediremos los datos necesarios para para calcular la planilla, mientras 
+en el del inmueble pediremos igual datos necesarios y sacaremos el 2% del valor 
+del inmuble

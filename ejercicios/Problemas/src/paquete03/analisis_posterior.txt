@@ -1,0 +1,4 @@
+Ninguna parte del problema se me hizo dificil de entender, cometi un error que 
+en el procedimiento me olvide imprimir la respuesta, la parte de la solucion que
+considero mas importante, es la parte de los procedimientos, y la verdad no 
+aprendi nada nuevo todo eso ya sabia.
