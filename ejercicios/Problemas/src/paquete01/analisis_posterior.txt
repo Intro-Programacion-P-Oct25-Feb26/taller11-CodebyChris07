@@ -1,0 +1,5 @@
+La parte mas dificil del problema para mi fue la parte de hacer la condicional 
+para presentar los numeros pares, los errores que corregi al inicio fue al rato
+de presentar los valores puse un dato erroneo y me salio error pero lo corregi 
+al instante, la parte de la solucion que considero mas importante es la 
+condicional, aprendi a como presentar un reporte con procedimientos
