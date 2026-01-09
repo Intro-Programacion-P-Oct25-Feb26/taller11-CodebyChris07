@@ -1,2 +1,5 @@
 En este problema tenemos que generar una solucion que presente la suma de dos 
-arreglos bidimensionales llamados informacion1 y informacion2 
+arreglos bidimensionales llamados informacion1 y informacion2, para ello 
+utilizaremos dos metodos un principal donde se va a invocar al segundo metodo 
+que es donde se realizara la suma de cada uno de estos, para resolverlo voy a 
+utlizar un ciclo for el cual nos va a permitir recorrer las filas y las columnas

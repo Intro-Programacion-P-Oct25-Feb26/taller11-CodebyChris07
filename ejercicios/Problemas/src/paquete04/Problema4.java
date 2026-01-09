@@ -71,5 +71,4 @@ public class Problema4 {
                 + "valorado en $%s y tiene que pagar de predio $ %s.", n, c, 
                 inmueble, predio );
      }
-
 }
