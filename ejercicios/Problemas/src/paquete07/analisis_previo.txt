@@ -1,0 +1,6 @@
+El problema requiere pedir por teclado una lista de ciudades ecuatorianas y la 
+extension es definida por el usuario, en el proceso principal pedimos el numero 
+de elemntos que tendra el arreglo, en el procedimiento que aqui solo se deben 
+imprimir valores del arreglo que tengan de 4 a 5 caracteres, y como resultado se
+debe mostrar en pantalla unicamentente los nomnres de ciudades qie cumplan con 
+el criterio dicho anteriormente

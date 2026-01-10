@@ -2,4 +2,4 @@ Se me hizo mas dificil de entender la parte de la varianza y la desviacion,
 porque no me acordaba como se en lenguaje de java, el error que cometi al 
 principio fue que use una forma incorrecta de calcular la varianza, pero despues
 busque bien y ya supe como hacerlo, la parte mas importante es donde calculamos
-la desviacion, aprendi a como usar de mejor manera el Math.pow y Math.sqrt
+la desviacion, aprendi a como usar de mejor manera el Math.pow y Math.sqrt(
