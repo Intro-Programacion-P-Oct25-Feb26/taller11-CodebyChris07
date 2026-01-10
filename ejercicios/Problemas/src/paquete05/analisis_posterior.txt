@@ -1,0 +1,5 @@
+la parte mas dificil de comprender fue como podia hacer un salto de linea para 
+cada fila, el error que cometi al inicio fue que intente poner el salto de linea
+junto con el resultado de cada columna y me salio mal pero luegp ya vi como 
+corregirlo, la parte mas importante es la suma de las matrizes, aprendi a como 
+hacer un salto de linea para cada fila

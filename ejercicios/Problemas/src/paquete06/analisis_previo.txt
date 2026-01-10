@@ -1,0 +1,5 @@
+el problema nos pide calcular dos medidas estadísticas fundamentales mediante 
+3 metodos. El metodo principal  invoca dos metodos, en uno comienza con la 
+obtención del promedio total de los elementos. Y en el otro metodo haremos un 
+ciclo repetitivo para recorrer el arreglo y realizar operaciones aritméticas de 
+suma, potencia y raíz cuadrada. 
